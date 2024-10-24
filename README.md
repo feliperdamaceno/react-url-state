@@ -1,3 +1,3 @@
 ## react-url-state
 
-Simple repository to practive how to store state as query params.
+A repository for practicing state management through query parameters, enabling state persistence and sharing via URLs in web applications.
